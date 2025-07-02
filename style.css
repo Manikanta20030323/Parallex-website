@@ -101,6 +101,8 @@ h3{
 .bg3{
     background-image: url("sport-3.jpg");
     background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
 }
 
 
